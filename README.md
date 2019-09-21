@@ -1,1 +1,1 @@
-# Python Mini Projec & Code
+Python Mini Projects and Codes
